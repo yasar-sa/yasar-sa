@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @yasar-sa
-- 🌱 I’m currently learning Web Development
-- Instagram: @yasar__sa
-- Snapchat: @yasar_sa
+- 👋 Hola Amigo, Im Yasar.
+- 🌱 I’m currently learning Web Development.
+- 📍 How to reach me:Instagram - @yasar__sa
+- 👨🏾 Pronoun: he/his.
+- 🔻 Fun Fact: I wanna be self-made a billionare.
