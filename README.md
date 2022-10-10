@@ -2,4 +2,4 @@
 - 🌱 I’m currently learning Web Development.
 - 📍 How to reach me:Instagram - @yasar__sa
 - 👨🏾 Pronoun: he/his.
-- 🔻 Fun Fact: I wanna be self-made a billionare.
+- 🔻 Fun Fact: I ❤️ shoes.
