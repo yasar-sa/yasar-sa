@@ -1,5 +1,6 @@
 - 👋 Hola Amigo, Im Yasar.
-- 🌱 I’m currently learning Web Development.
+- 🌱 I’m an App Developer.
+- 👾 Currently working in flutter framework.
 - 📍 How to reach me:Instagram - @yasar__sa
 - 👨🏾 Pronoun: he/his.
 - 🔻 Fun Fact: I ❤️ shoes.
