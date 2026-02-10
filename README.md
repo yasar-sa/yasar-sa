@@ -1,18 +1,59 @@
-# 👋 Hi, I'm Yasar!
+<h1 align="center">Hi 👋, I'm Yasar</h1>
+<p align="center">
+Full Stack Developer
+</p>
 
-I'm a passionate software developer
+---
 
-## 🚀 Tech Stack
-- **Languages:** Dart, Python, JavaScript
-- **Frameworks:** Flutter, Node.js
-- **Tools:** Git, Docker, Swagger API
+## 🚀 About Me
+- Passionate about building web & mobile applications  
+- Focused on scalable backend systems and clean UI  
+- Learning by building real-world projects  
 
-## 🌟 Featured Projects
-- [flutter-crm](https://github.com/yasar-sa/flutter-crm) – A complete real estate CRM built with Flutter
+---
+
+## 🛠 Tech Stack
+
+**Frontend:**  
+- React.js  
+- Flutter  
+
+**Backend:**  
+- Node.js  
+- Express.js  
+
+**Database:**  
+- MongoDB  
+
+**Languages:**  
+- JavaScript  
+- Dart  
+- Python  
+
+**Tools:**  
+- Git & GitHub  
+- Swagger API  
+- Firebase  
+
+---
+
+## 🌟 Featured Project
+**Real Estate CRM (MERN + Flutter)**  
+🔗 https://github.com/yasar-sa/flutter-crm  
+
+- Role-based authentication (Admin / Staff)  
+- Property & Client Management  
+- Lead Tracking  
+- Analytics Dashboard  
+- REST API Integration  
+
+---
 
 ## 📊 GitHub Stats
-![Yasar's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasar-sa&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasar-sa&show_icons=true&theme=tokyonight)
 
-## 📫 Connect with Me
+---
+
+## 📫 Connect
 - [LinkedIn](https://linkedin.com/in/yasar-sa)
-- [Twitter/X](https://x.com/yasar_sa)
+- [Twitter/X](https://x.com/yasar__sa)
