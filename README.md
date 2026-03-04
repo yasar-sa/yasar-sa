@@ -1,59 +1,19 @@
-<h1 align="center">Hi 👋, I'm Yasar</h1>
-<p align="center">
-Full Stack Developer
-</p>
+# Hi, I'm Yasar! 👋
 
----
 
 ## 🚀 About Me
-- Passionate about building web & mobile applications  
-- Focused on scalable backend systems and clean UI  
-- Learning by building real-world projects  
+I'm a full stack developer
 
----
+- Passionate about building web & mobile applications
 
-## 🛠 Tech Stack
+- Focused on scalable backend systems and clean UI
 
-**Frontend:**  
-- React.js  
-- Flutter  
+- Learning by building real-world projects
 
-**Backend:**  
-- Node.js  
-- Express.js  
 
-**Database:**  
-- MongoDB  
+## 🛠 Skills
+React.Js, Flutter, Node.Js, Express, MongoDB
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasar-sa/)
+[![twitter](https://img.shields.io/badge/X%2FTwitter-white?logo=x&style=flat&logoColor=gray)](https://x.com/yasar__sa)
 
-**Languages:**  
-- JavaScript  
-- Dart  
-- Python  
-
-**Tools:**  
-- Git & GitHub  
-- Swagger API  
-- Firebase  
-
----
-
-## 🌟 Featured Project
-**Real Estate CRM (MERN + Flutter)**  
-🔗 https://github.com/yasar-sa/flutter-crm  
-
-- Role-based authentication (Admin / Staff)  
-- Property & Client Management  
-- Lead Tracking  
-- Analytics Dashboard  
-- REST API Integration  
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasar-sa&show_icons=true&theme=tokyonight)
-
----
-
-## 📫 Connect
-- [LinkedIn](https://linkedin.com/in/yasar-sa)
-- [Twitter/X](https://x.com/yasar__sa)
